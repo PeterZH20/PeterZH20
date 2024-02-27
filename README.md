@@ -10,12 +10,12 @@
 - Materials Science + Machine Learning
 
 ### Programming languages:
--Python
--C++
--C
+- Python
+- C++
+- C
 
 ### Languages:
-- Spanish [Native] -English [B1 (CEFR - OOPT].
+- Spanish [Native]
 - English [B1 (CEFR) - OOPT].
 - French [A2 (CEFR) - DELF tout public].
 
