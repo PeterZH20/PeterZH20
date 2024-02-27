@@ -22,7 +22,7 @@
 - French [A2 (CEFR) - DELF tout public].
 
 ### You may also be interested in:
-[CV]:https://alumnosuady-my.sharepoint.com/:b:/g/personal/a15003561_alumnos_uady_mx/EcZCDW9MM89ClXpnaGsqwWoBJNheHZKODZWDEQ3uqfomFw?e=rqW74m
+- [CV]:https://alumnosuady-my.sharepoint.com/:b:/g/personal/a15003561_alumnos_uady_mx/EcZCDW9MM89ClXpnaGsqwWoBJNheHZKODZWDEQ3uqfomFw?e=rqW74m
 
 
 
