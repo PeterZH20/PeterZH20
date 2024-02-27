@@ -1,4 +1,7 @@
-### Hola, este es mi github donde podrás encontrar mis repositorios de mis trabajos. 👋
+### Hello! 👋
+## I'm Pedro Zapata, a Physicist Engineer in progress.
+## I love physics and programming. Currently, I am studying data science, machine learning and computer vision. I am open to learn new programming languages, techniques and collaborative problem-solving.
+
 
 <!--
 **PeterZH20/PeterZH20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
