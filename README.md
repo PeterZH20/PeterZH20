@@ -21,7 +21,7 @@
 - English [B1 (CEFR) - OOPT].
 - French [A2 (CEFR) - DELF tout public].
 
-### Puedes echarle un vistazo a mi [CV]:https://alumnosuady-my.sharepoint.com/:b:/g/personal/a15003561_alumnos_uady_mx/EcZCDW9MM89ClXpnaGsqwWoBJNheHZKODZWDEQ3uqfomFw?e=rqW74m
+### Puedes echarle un vistazo a mi [CV]: https://alumnosuady-my.sharepoint.com/:b:/g/personal/a15003561_alumnos_uady_mx/EcZCDW9MM89ClXpnaGsqwWoBJNheHZKODZWDEQ3uqfomFw?e=rqW74m
 
 
 
