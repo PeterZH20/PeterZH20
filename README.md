@@ -1,6 +1,26 @@
-### Hello! 👋
-## I'm Pedro Zapata, a Physicist Engineer in progress.
-## I love physics and programming. Currently, I am studying data science, machine learning and computer vision. I am open to learn new programming languages, techniques and collaborative problem-solving.
+# Hello there! 👋
+## I'm Pedro Zapata, a **Physicist Engineer** in progress 🎓
+## I love *physics* and *programming*. Currently, I am studying data science, machine learning and computer vision. I am open to learn new programming languages, techniques and collaborative problem-solving 📈
+
+### Work topics:
+- Structured Programming
+- Data Science and Machine Learning
+- Computer Vision
+- Database creation
+- Materials Science + Machine Learning
+
+### Programming languages:
+-Python
+-C++
+-C
+
+### Languages:
+- Spanish [Native] -English [B1 (CEFR - OOPT].
+- English [B1 (CEFR) - OOPT].
+- French [A2 (CEFR) - DELF tout public].
+
+
+
 
 
 <!--
