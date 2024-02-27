@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, este es mi github donde podrás encontrar mis repositorios de mis trabajos. 👋
 
 <!--
 **PeterZH20/PeterZH20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
