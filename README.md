@@ -15,7 +15,7 @@
 ### Programming languages:
 - Python
 - C++
-- C
+- Java
 
 ### Languages:
 - Spanish [Native]
