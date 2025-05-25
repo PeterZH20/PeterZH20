@@ -1,5 +1,5 @@
 # Hello there! 👋
-## I'm Pedro Zapata, a **Physicist Engineer** in progress 🎓
+## I'm Pedro Zapata, a **Physicist Engineer** 🎓
 ## I love *physics* and *programming*. Currently, I am studying data science, machine learning and computer vision. I am open to learn new programming languages, techniques and collaborative problem-solving 📈
 ### I here is my [CV](https://alumnosuady-my.sharepoint.com/:b:/g/personal/a15003561_alumnos_uady_mx/EcZCDW9MM89ClXpnaGsqwWoBJNheHZKODZWDEQ3uqfomFw?e=JNHvJi) in case you want to take a look at it.
 
